@@ -1,6 +1,6 @@
 # Bird and Bunny
 
-This project simply preserves an old [website] that seems to be still useful for those interested in keeping birds or bunnies as pets.
+This project simply preserves an old [website] that seems to be still useful for those interested in keeping birds or bunnies as pets, especially parrots, especially caiques.
 
 [website]: https://birdandbunny.hoza.us
 
