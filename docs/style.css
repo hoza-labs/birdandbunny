@@ -1,0 +1,336 @@
+BODY
+{
+    font-family: arial;
+    text-align: center;
+    background-color: green;
+}
+
+UL
+{
+    margin: 0px;
+}
+
+.wrapper
+{
+    text-align: left;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #4DD8FF;
+    border: 5px solid black;
+    min-height: 1000px;
+    padding: 49px;
+    margin-top: 49px;
+    border-radius: 70px;
+}
+
+.wrapper2
+{
+    text-align: left;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C3FC60;
+    border: 5px solid black;
+    min-height: 1000px;
+    padding: 49px;
+    margin-top: 49px;
+    border-radius: 70px;
+}
+
+.wrapper3
+{
+    text-align: left;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFB64F;
+    border: 5px solid black;
+    min-height: 1200px;
+    padding: 49px;
+    margin-top: 49px;
+    border-radius: 70px;	
+}
+
+.wrapper4
+{
+    text-align: left;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #829AFA;
+    border: 5px solid black;
+    min-height: 1500px;
+    padding: 49px;
+    margin-top: 49px;
+    border-radius: 70px;
+}
+
+.wrapper5
+{
+	text-align: left;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFFC66;
+    border: 5px solid black;
+    min-height: 1500px;
+    padding: 49px;
+    margin-top: 49px;
+    border-radius: 70px;
+}
+
+.wrapper6
+{
+	text-align: left;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FF00FB;
+    border: 5px solid black;
+    min-height: 1500px;
+    padding: 49px;
+    margin-top: 49px;
+    border-radius: 70px;
+}
+
+.title
+{
+    font-size: 29pt;
+    font-weight: bold;
+    text-align: center;
+    font-family: "comic sans MS", arial;
+}
+
+.subtitle
+{
+    font-size: 15pt;
+    font-style: italic;
+    text-align: center;
+}
+
+.websitetitle
+{
+    font-size: 13pt;
+    text-align: center;
+}
+
+.box
+{
+    margin-top: 49px;
+    border: 5px dotted black;
+    padding: 18px;
+    width: 300px;
+    border-radius: 45px;
+}
+
+.box1
+{
+    float: left;
+    clear: both;
+}
+.box2
+{
+    float: right;
+}
+
+.box3
+{
+    float: left;
+}
+
+.box4
+{
+	margin-top: 49px;
+    padding: 18px;
+    width: 300px;
+    float: left;
+}
+
+.box5
+{
+	margin-top: 49px;
+    padding: 18px;
+    width: 300px;
+    float: right;
+}
+
+.family
+{
+    font-size:18pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 49px;
+    font-family: "comic sans MS", arial;
+}
+
+.difficulty-level
+{
+    font-size: 15pt;
+    font-family: "comic sans MS", arial;
+    text-align: center;
+}
+
+.species
+{
+    font-size: 14pt;
+    font-weight: bold;
+    font-family: "comic sans MS", arial;
+    margin-top: 22pt;
+}
+
+.rant
+{
+    font-size: 14pt;
+    font-family: arial;
+    text-align: left;
+    color: red;
+    margin-top: 49pt;
+}
+
+.copyright
+{
+    font-size: 10pt;
+    font-family: arial;
+    text-align: center;
+    Margin-top: 49pt;
+}
+
+.introduction
+{
+	font-size:13pt;
+    text-align: center;
+    font-family: "comic sans MS", arial;
+    margin-top: 33pt;
+}
+
+.importantpartofintro
+{
+	font-size:14pt;
+    text-align: center;
+    font-family: "comic sans MS", arial;
+    margin-top: 0pt;
+    font-weight:bold;	
+}
+
+.toycolumn
+{
+	font-size: 15pt;
+	text-align: left;
+	margin-top: 33pt;
+	margin-left: 15%;
+	margin-right: 16%;
+}
+
+.materials
+{
+	font-size: 14pt;
+	text-align: center;
+	font-family: "comic sans MS", arial;
+	margin-top: 33pt;
+}
+
+.steps
+{
+	margin-top: 49px;
+    padding: 18px;
+    width: 300px;
+    border-radius: 45px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.picturefit
+{
+	width: 100%;
+}
+
+.stepimg
+{
+	clear: both;
+	height: 75pt;
+}
+
+.toy
+{
+	margin-top: 33pt;
+}
+
+.titlespacer
+{
+	margin-top: 75px;
+}
+
+.smallspacer
+{
+	margin-top: 25px;
+}
+
+.writing
+{
+	text-align: left;
+	font-size: 12pt;
+	font-family: arial;
+	Line-height: 2em;
+}
+
+.heading
+{
+	margin-top:25px;
+	text-align: left;
+	font-size: 12pt;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.pictures
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.brpics
+{
+	margin-bottom:25px;
+	text-align: left;
+}
+
+.indented
+{
+	text-indent: 50px;
+}
+
+.sources
+{
+	text-align: center;
+	font-size: 12pt;
+	font-family: arial;
+	Line-height: 2em;
+	margin-top: 25px;
+}
+
+.paragraph
+{
+	text-align: left;
+	font-size: 12pt;
+	font-family: arial;
+	Line-height: 2em;
+	margin-top: 25px;
+}
+
+.description
+{
+	text-align: center;
+	font-size: 12pt;
+	font-family: arial;
+	Line-height: 2em;
+	margin-bottom: 25px;
+}
+
+.gallerypics
+{
+	height: 300px;
+	border: 5px solid black;
+	border-radius: 45px;
+}
